@@ -1,0 +1,28 @@
+{
+  "name": "tea-contributors",
+  "version": "1.0.0",
+  "description": "building tea protocol for contributors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJP777/tea-contributors.git"
+  },
+  "keywords": [
+    "tea",
+    "contributor"
+  ],
+  "author": "ismatullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJP777/tea-contributors/issues"
+  },
+  "homepage": "https://github.com/DevJP777/tea-contributors#readme",
+  "dependencies": {
+    "alchemy-sdk": "^3.1.2",
+    "ethers": "^6.11.1",
+    "tea-chalange": "^1.1.1"
+  }
+}
