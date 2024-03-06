@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevJP777/tea-contributors.git"
+    "url": "https://github.com/DevJP777/tea-contributors.git"
   },
   "keywords": [
     "tea",
@@ -20,6 +20,8 @@
     "url": "https://github.com/DevJP777/tea-contributors/issues"
   },
   "homepage": "https://github.com/DevJP777/tea-contributors#readme",
+  "source": "https://github.com/DevJP777/tea-contributors.git",
+  "Source": "https://github.com/DevJP777/tea-contributors.git",
   "dependencies": {
     "alchemy-sdk": "^3.1.2",
     "ethers": "^6.11.1",
