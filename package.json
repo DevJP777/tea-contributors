@@ -1,6 +1,6 @@
 {
   "name": "tea-contributors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "building tea protocol for contributors",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "alchemy-sdk": "^3.1.2",
     "ethers": "^6.11.1",
     "tea-chalange": "^1.1.1",
+    "tea-comunity-id": "^1.0.1",
     "tea-user": "^1.0.1"
   }
 }
