@@ -23,6 +23,7 @@
   "source": "https://github.com/DevJP777/tea-contributors.git",
   "Source": "https://github.com/DevJP777/tea-contributors.git",
   "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
     "alchemy-sdk": "^3.1.2",
     "ethers": "^6.11.1",
     "tea-chalange": "^1.1.1",
